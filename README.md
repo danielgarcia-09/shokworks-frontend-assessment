@@ -94,5 +94,17 @@ Para ejecutar este proyecto en tu entorno local con Vite, sigue estos sencillos 
 
 -----
 
-### EJEMPLO DE USO
+### EJEMPLOS DE USO
+
+#### DESKTOP
+![ezcv logo](https://raw.githubusercontent.com/danielgarcia-09/shokworks-frontend-assessment/main/public/desktop.png)
+
+
+#### MOBILE
+![ezcv logo](https://raw.githubusercontent.com/danielgarcia-09/shokworks-frontend-assessment/main/public/mobile.png)
+
+### TABLET
+![ezcv logo](https://raw.githubusercontent.com/danielgarcia-09/shokworks-frontend-assessment/main/public/tablet.png)
+
+### LINK DE VIDEO
 https://drive.google.com/file/d/13LsImtcKhVNbLEEhOyaHxnZQL9sbsbgk/view?usp=sharing
